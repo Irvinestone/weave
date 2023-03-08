@@ -29,6 +29,7 @@ var (
 // @securityDefinitions.apikey JWT
 // @in header
 // @name Authorization
+// 测试
 func main() {
 	flag.Parse()
 
